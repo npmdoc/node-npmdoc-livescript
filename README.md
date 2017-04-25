@@ -1,4 +1,7 @@
-# api documentation for  [livescript (v1.5.0)](http://livescript.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-livescript.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-livescript) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-livescript.svg)](https://travis-ci.org/npmdoc/node-npmdoc-livescript)
+# npmdoc-livescript
+
+#### basic api documentation for  [livescript (v1.5.0)](http://livescript.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-livescript.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-livescript) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-livescript.svg)](https://travis-ci.org/npmdoc/node-npmdoc-livescript)
+
 #### LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming,
 
 [![NPM](https://nodei.co/npm/livescript.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/livescript)
